@@ -134,7 +134,6 @@ Humble Bundle Library
 | Spellcaster University | Steam | ✔ | May 2022 |
 | The Spiral Scouts | Steam | ✔ |  |
 | Splasher | Steam | ✔ |  |
-| SpongeBob Squarepants: Battle for Bikini Bottom - Rehydrated | Steam | ✔ | May 2022 |
 | State of Mind | Steam | ✔ |  |
 | Steel Rats | Steam | ✔ |  |
 | Still There | Steam | ✔ | December 2020 |
